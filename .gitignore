@@ -107,7 +107,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 
 ### OSX ###
@@ -148,3 +147,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 # End of https://www.gitignore.io/api/osx,git,node,macos,linux,windows,visualstudiocode
+config.bat
