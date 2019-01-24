@@ -107,7 +107,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 
 ### OSX ###
@@ -121,7 +120,6 @@ typings/
 # Directories potentially created on remote AFP share
 
 ### VisualStudioCode ###
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -148,3 +146,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 # End of https://www.gitignore.io/api/osx,git,node,macos,linux,windows,visualstudiocode
+config.bat
